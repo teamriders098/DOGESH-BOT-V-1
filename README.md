@@ -39,7 +39,9 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/b7fae08bdc5b0a20fbfba.gif)
+
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](teamriders.cf/#qrcode)
+ 
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
