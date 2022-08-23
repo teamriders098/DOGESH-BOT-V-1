@@ -37,10 +37,16 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-## ```QR SCANNERS```
+## ```QR SCANNER 1```
 
 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://teamriders.cf/#qrcode)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](http://teamriders.cf/?i=1/#qrcode2)
+
+
+## ```QR SCANNER 2```
+✧ Click this scan button below and scan the given QR within 10 seconds from your WhatsApp. 
+<a href="https://mikuqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
+</a>
  
 
 <p align="left">
@@ -55,9 +61,6 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/teamriders/DOGESH-BOT-V-1/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@teamriders/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
 
