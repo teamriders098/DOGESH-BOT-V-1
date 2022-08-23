@@ -37,10 +37,10 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-## ```Donate Me```
+## ```QR SCANNERS```
 
 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](teamriders.cf/#qrcode)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://teamriders.cf/#qrcode)
  
 
 <p align="left">
