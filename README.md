@@ -1,10 +1,10 @@
 <h1 align="center">ꪶDOGESH 𝗕OT-𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="tenor.gif" alt="animated" width="540" height="280" />
+<img src="tenor.gif" alt="animated" width="300" height="280" />
 </p>
 
 <p align="center">
-Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.com/teamriders" target="_blank">TEAMRIDERS</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.com/teamriders098" target="_blank">teamriders098</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/teamriders/followers"><img title="Followers" src="https://img.shields.io/github/followers/teamriders?color=red&style=flat-square"></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/teamriders/DOGESH-BOT-V-1?color=blue&style=flat-square"></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/teamriders/DOGESH-BOT-V-1?color=red&style=flat-square"></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/teamriders/DOGESH-BOT-V-1?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1/"><img title="Size" src="https://img.shields.io/github/repo-size/teamriders/DOGESH-BOT-V-1?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteamriders%2FDOGESH-BOT-V-1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/teamriders/DOGESH-BOT-V-1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/teamriders098/followers"><img title="Followers" src="https://img.shields.io/github/followers/teamriders098?color=red&style=flat-square"></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/teamriders098/DOGESH-BOT-V-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/teamriders098/DOGESH-BOT-V-1?color=red&style=flat-square"></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/teamriders098/DOGESH-BOT-V-1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1"><img title="Open Source" src="https://img.shields.io/badge/Author-teamriders%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1/"><img title="Size" src="https://img.shields.io/github/repo-size/teamriders098/DOGESH-BOT-V-1?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteamriders098%2FDOGESH-BOT-V-1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/teamriders098/DOGESH-BOT-V-1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -34,13 +34,13 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 <a href="https://wa.me/918107768770"><img src="https://img.shields.io/badge/Contact Mr Unknown rider-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://wa.me/918602239106"><img src="https://img.shields.io/badge/Contact Olduser-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe teamriders-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```QR SCANNER 1```
 
 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](http://teamriders.cf/?i=1/#qrcode2)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](http://teamriders098.cf/?i=1/#qrcode2)
 
 
 ## ```QR SCANNER 2```
@@ -60,15 +60,15 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/teamriders/DOGESH-BOT-V-1/fork)
+- FORK THE REPOSITORY [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/fork)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/teamriders098/DOGESH-BOT-V-1/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
@@ -77,7 +77,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamriders/DOGESH-BOT-V-1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamriders098/DOGESH-BOT-V-1/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -88,7 +88,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/teamriders/DOGESH-BOT-V-1.git
+git clone https://github.com/teamriders098/DOGESH-BOT-V-1.git
 cd DOGESH-BOT-V-1
 
 yarn start
@@ -105,7 +105,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/teamriders/DOGESH-BOT-V-1
+git clone https://github.com/teamriders098/DOGESH-BOT-V-1
 cd DOGESH-BOT-V-1
 yarn start
 ```
@@ -117,7 +117,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/teamriders/DOGESH-BOT-V-1
+git clone https://github.com/teamriders098/DOGESH-BOT-V-1
 cd DOGESH-BOT-V-1
 yarn start
 ```
