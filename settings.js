@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916306984357'] //ur owner number
-global.ownername = "Mr Ashish" //ur owner name
+global.vcardowner = ['918107768770'] //ur owner number
+global.ownername = "Mr Goransh " //ur owner name
 global.ytname = "TEAM RIDERS" //ur yt chanel name
 global.socialm = "github.com/teamriders" //ur github or insta name
 global.location = "India, DREAMRS , RIDERSWORLD" //ur location
 
 //bot bomdy 
-global.owner = ['916306984357']
-global.ownertag = '916306984357' //ur tag number
+global.owner = ['918107768770']
+global.ownertag = '918107768770' //ur tag number
 global.botname = '⚡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/x.goransh_x?igshid=YmMyMTA2M2Y=" //ur website to be displayed
+global.websitex = "teamriders.qr=" //ur website to be displayed
 global.botscript = 'https://github.com/RIDERGORANSH' //script link
 global.reactmoji = "😇" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
-global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😊 " //ur sticker watermark packname
+global.packname = "𝙼𝚛𝐆𝐨𝐫𝐚𝐧𝐬𝐡\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😊 " //ur sticker watermark packname
 global.author = "TEAM RIDERS ⚡💟" //ur sticker watermark author
 
 //Bot theme media
@@ -106,14 +106,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    admin: 'This Feature Is Only For Cuties!',
+    botAdmin: 'Bot Must Be Admin First Cutie!',
+    owner: 'This Feature Is Only For MyMaster!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
+    linkm: 'Where is the link Balak?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
