@@ -65,7 +65,7 @@ global.owner = ['918107768770']
 global.ownertag = '918107768770' //ur tag number
 global.botname = '⚡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
-global.websitex = "teamriders.qr=" //ur website to be displayed
+global.websitex = "teamriders.gq" //ur website to be displayed
 global.botscript = 'https://github.com/RIDERGORANSH' //script link
 global.reactmoji = "😇" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
