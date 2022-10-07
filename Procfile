@@ -1,2 +1,2 @@
-worker: yarn heroku
-web: yarn start
+worker: node .
+web: yarn heroku
